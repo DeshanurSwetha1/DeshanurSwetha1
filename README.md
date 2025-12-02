@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=500&lines=Hi+there!+I'm+Deshanur+Swetha+👩‍💻;Computer+Science+Student;Web+%26+AI+Enthusiast;Always+Learning+New+Things+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&height=60&lines=Hi+there!+I'm+Deshanur+Swetha+👩‍💻;AI+%26+Web+Development+Enthusiast;Always+Learning+New+Things+🚀">
 </p>
 
 ---
@@ -16,35 +16,53 @@
 
 ### 🛠 Tech Skills
 
-#### 🚀 Programming & CS
-![C](https://img.shields.io/badge/C-language-blue)
-![Java](https://img.shields.io/badge/Java-orange)
-![Python](https://img.shields.io/badge/Python-yellow)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-green)
+Programming:  
+🧠 C • Java • Python  
 
-#### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![React](https://img.shields.io/badge/React-61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000)
+Web Development:  
+🌐 HTML • CSS • JavaScript • React • Flask  
 
-#### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032)
-![GitHub](https://img.shields.io/badge/GitHub-181717)
-![VS Code](https://img.shields.io/badge/VS%20Code-blue)
+Database:  
+🗄 SQL , MongoDB
+
+Core CS:  
+📘 Data Structures & Algorithms  
+
+Tools:  
+⚙ Git • GitHub • VS Code
 
 ---
 
 ### 📌 Projects
 
-| Project | Description | Tech |
-|--------|-------------|-----|
-| 🚨 *Deep Learning Based IDS* | Detect network anomalies using neural networks for security | Python, DL, ML |
-| 💆‍♀ *Service Booking System* (Coming Soon!) | Salon and clinic appointment booking full-stack platform | MERN Stack |
+#### 🚨 Deep Learning Based IDS
+- Detects network anomalies such as DDoS and intrusions using AI  
+- Trained model improves security with real-time detection  
+- *Tech:* Python, Deep Learning (Neural Networks), ML  
+
+---
+
+#### 🎓 Online Student Information System
+- Manages student profiles, attendance & academic data  
+- Secure login system with separate admin dashboard  
+- *Tech:* HTML, CSS, JavaScript, SQL, Flask  
+
+---
+
+#### 🌟 ATMOS – Real-time Team Wellness Monitor(Coming soon)
+- Helps remote teams track morale & prevent burnout  
+- Live dashboard showing team stress level & engagement  
+- Anonymous Q&A, Kudos feed & workload pulse check  
+- *Tech:* MERN Stack (MongoDB, Express, React, Node.js), WebSockets (Socket.io), JWT Auth  
 
 > All projects will be updated with code & live demos soon 🚀
 
+---
+### 🏆 Achievements
+
+- 🌐 Participated in Hackathon at *Smt. Kamala & Sri Venkata M. Angadi College* showcasing innovative tech solutions  
+- 🥇 Built impactful small web applications and secured 1st prize
+  
 ---
 
 ### 📬 Connect With Me
